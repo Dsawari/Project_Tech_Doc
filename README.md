@@ -1,4 +1,3 @@
-# Project_Tech_Doc
 # Инвентаризация документации: Pony Archive
 
 **Репозиторий:** [github.com/Dsawari/PonyArchive](https://github.com/Dsawari/PonyArchive)
